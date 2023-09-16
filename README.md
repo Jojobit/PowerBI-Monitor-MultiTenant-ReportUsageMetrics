@@ -5,6 +5,9 @@ Generate and fetch data from Power BI usage metrics across workspaces and tenant
 
 Welcome to PowerBIMonitorReportUsageMetrics! This PowerShell script helps you to monitor and analyze the usage metrics of your Power BI reports across multiple workspaces and tenants. The aim is to provide a deeper understanding of how your Power BI reports are utilized, which can guide you in your Power BI user adoption journey.
 
+## Acknowledgments 🙏
+Special thanks to [Štěpán Rešl](https://github.com/tirnovar) for his help in making this crazy idea a reality. His expertise in Power BI APIs greatly contributed to this project. Be sure to follow him for awesome tips and tutorials.
+
 ## Features 🔍
 
 - Checks if the required Power BI management modules are installed.
